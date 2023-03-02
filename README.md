@@ -14,7 +14,6 @@
 
 [![Fala Meowth](https://img.shields.io/badge/Fala%20Meowth-Edição-brightgreen?style=flat-square&logo=spotify)](https://open.spotify.com/show/2DFNSUZtyDV39bkZOhPiUC?si=e29f145f66074d6e)
 
-![Marvyn Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvynmesquita&show_icons=true&theme=radical)
 
 ## Habilidades
 
@@ -31,3 +30,5 @@
 ![FL Studio](https://icon-icons.com/downloadimage.php?id=23524&root=195/PNG/48/&file=FL_Studio_23524.png)
 
 ![Logic Pro](https://icon-icons.com/downloadimage.php?id=190022&root=3053/PNG/48/&file=logic_pro_x_alt_macos_bigsur_icon_190022.png)
+
+![Marvyn Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvynmesquita&show_icons=true&theme=radical)
